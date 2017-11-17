@@ -1,3 +1,3 @@
 <?php
-echo "<p> This is an external file!!! </p>";
+echo "This is an external file!!!";
 ?>
