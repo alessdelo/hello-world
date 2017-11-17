@@ -1,3 +1,4 @@
 # hello-world
-My first repository. \n
+My first repository. 
+
 This file is a first approach to Github
