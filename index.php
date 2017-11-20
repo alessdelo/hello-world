@@ -6,8 +6,8 @@
 <p> Bla ... bla... bla...  </p>
 <?php echo "externalfile1.php";?>
 <script>
-  var var1 = " aaaaa";
-  alert(var1);
+  // var var1 = " aaaaa";
+  alert(" aaaaa");
 </script>
 </body>
 </html>
